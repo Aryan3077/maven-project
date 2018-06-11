@@ -1,1 +1,5 @@
-import package example
+/**
+ *
+ *
+ */
+package com.example;
