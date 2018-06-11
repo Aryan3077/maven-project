@@ -13,7 +13,7 @@ public class Greeter {
   }
 
 /**
- * {@inhertatnce}
+ * @inhertatnces adsd ad d
  *
  */
   public final String greet(final String someone) {
